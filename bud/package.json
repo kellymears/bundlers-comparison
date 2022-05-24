@@ -1,0 +1,11 @@
+{
+  "name": "mix",
+  "version": "0",
+  "devDependencies": {
+    "@roots/bud": "5.8.7",
+    "@roots/bud-babel": "5.8.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
